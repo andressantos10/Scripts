@@ -1,0 +1,11 @@
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_administrativodb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_aplicacaodb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_carimbodb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_cms_signaturedb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_cms_verificationdb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_pdf_verificationdb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_politicadb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_repositoriodb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_validadordb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_xml_signaturedb
+PGPASSWORD=8gZYuYwdUQxj dropdb -h scad2-uat.cvvqw2imp0k8.sa-east-1.rds.amazonaws.com -p 6432 -U postgres fw2_xml_verificationdb
